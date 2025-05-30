@@ -1,4 +1,4 @@
-# 📓 Cheat Sheet
+# 📓 Styling Cheat Sheet
 
 This cheat sheet summarizes the key utilities and concepts from the lessons. Use it as a quick reference while working on your project!
 
